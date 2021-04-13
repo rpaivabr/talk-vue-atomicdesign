@@ -5,7 +5,12 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compiles and hot-reloads fake api for development
+```
+npx json-server ./api/db.json --watch
+```
+
+### Compiles and hot-reloads front-end for development
 ```
 npm run serve
 ```

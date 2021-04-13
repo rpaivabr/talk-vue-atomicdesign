@@ -1,0 +1,10 @@
+{
+  "notes": [
+    { "id": 1, "title": "Título 1", "description": "Descrição 1", "category": "note" },
+    { "id": 2, "title": "Título 2", "description": "Descrição 2", "category": "task" },
+    { "id": 3, "title": "Título 3", "description": "Descrição 3", "category": "reminder" },
+    { "id": 4, "title": "Título 4", "description": "Descrição 4", "category": "reminder" },
+    { "id": 5, "title": "Título 5", "description": "Descrição 5", "category": "task" },
+    { "id": 5, "title": "Título 6", "description": "Descrição 5", "category": "note" }
+  ]
+}
